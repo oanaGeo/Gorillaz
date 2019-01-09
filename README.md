@@ -49,6 +49,9 @@ And the "COntact Form" allow the users to get in touch with the band also for re
 - [Figma](https://www.figma.com/)
     - The project uses **Figma** to build the wireframe, it is user friendly.
 
+- [Font Awesome](https://fontawesome.com/)
+    - The project uses **Font Awesome** for the social logos.
+
 ## Testing
 
 This website provides acces to videos and social media link as the fans required.
@@ -68,6 +71,7 @@ The design slightly changes on smaller screens in the ideea that the pictures, d
 
 ## Deployment
 
+https://oanageo.github.io/Gorillaz/ 
 
 ## Credits
 
